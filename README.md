@@ -14,3 +14,7 @@ public class DiagonalElements {
         System.out.println();
     }
 }
+
+Output 
+Diagonal elements:
+1 5 9
